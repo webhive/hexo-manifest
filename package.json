@@ -1,0 +1,15 @@
+{
+  "name": "hexo-manifest",
+  "version": "1.0.0",
+  "description": "Manifest generator for hexo.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Roman Tataurov",
+    "email": "roman.tataurov@yandex.ru",
+    "url": "https://www.webhive.ru" 
+  },
+  "license": "MIT"
+}
